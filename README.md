@@ -53,4 +53,5 @@
 
 ## 1. 用户注册
 1.用户注册时需要先关注嘉申电子公众号，关注后，打开公众号页面，点击获取授权
+![](https://github.com/dibaotian/UG/blob/master/get_auth.png)
 
