@@ -4,7 +4,7 @@
 ### 角色定义
 程序的用户共有三个角色，分别是供应商，分销商（代理商）和运营商，三种角色使用同一个小程序登录，不同角色的用户登录后看到的页面和操作权限不同
 
-![](https://github.com/dibaotian/UG/blob/master/image.png)
+![](https://github.com/dibaotian/UG/blob/master/org_arch.png)
 
 #### 供应商
 1.能够为分销商创建分组
@@ -54,4 +54,8 @@
 ## 1. 用户注册
 1.用户注册时需要先关注嘉申电子公众号，关注后，打开公众号页面，点击获取授权
 ![](https://github.com/dibaotian/UG/blob/master/get_auth.png)
+
+授权通过会显示如下页面
+![](https://github.com/dibaotian/UG/blob/master/auth_pass.png)
+
 
