@@ -52,10 +52,14 @@
 8.能够对机器的销售状态进行查询
 
 ## 1. 用户注册
-1.用户注册时需要先关注嘉申电子公众号，关注后，打开公众号页面，点击获取授权
+1.用户注册时请打开微信，搜索并关注嘉申电子公众号
+![](https://github.com/dibaotian/UG/blob/master/wechat_public.png)
+
+打开公众号页面，点击获取授权
 ![](https://github.com/dibaotian/UG/blob/master/get_auth.png)
 
 授权通过会显示如下页面
+
 ![](https://github.com/dibaotian/UG/blob/master/auth_pass.png)
 
 
