@@ -68,17 +68,19 @@
 
 ![](https://github.com/dibaotian/UG/blob/master/applet_qr.png)
 
-3.打开小程序,点击新用户注册，进入授权页面
+3.打开小程序,进入用户登录页面，点击最下方的新用户注册，进入获取授权页面
 
 ![](https://github.com/dibaotian/UG/blob/master/login_page.png)
 
-4.在获取授权页面，点击授权注册按钮，进入注册页面
+4.在获取授权页面，点击授权注册按钮，授权注册后进入用户注册页面
 
 ![](https://github.com/dibaotian/UG/blob/master/regist_auth.png)
 
 5.获取授权后进入注册页面，请在注册页面按照角色选取运营商或者供应商，注册信息按照要求填写，填写完成后选择确认完成注册
 
 ![](https://github.com/dibaotian/UG/blob/master/regist_page.png)
+
+6.注册成功后页面会跳转到登录页面，此时用户可以通过授权登录或者用户名密码登录
 
 
 
