@@ -72,4 +72,14 @@
 
 ![](https://github.com/dibaotian/UG/blob/master/login_page.png)
 
+4.在获取授权页面，点击授权注册按钮，进入注册页面
+
+![](https://github.com/dibaotian/UG/blob/master/regist_auth.png)
+
+5.获取授权后进入注册页面，请在注册页面按照角色选取运营商或者供应商，注册信息按照要求填写，填写完成后选择确认完成注册
+
+![](https://github.com/dibaotian/UG/blob/master/regist_page.png)
+
+
+
 
