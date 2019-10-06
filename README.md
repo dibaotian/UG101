@@ -64,7 +64,12 @@
 
 ![](https://github.com/dibaotian/UG/blob/master/auth_pass.png)
 
-2.	扫描下方小程序二维码，或者搜索酱瓜科技IOT运营版打开小程序
+2.扫描下方小程序二维码，或者搜索酱瓜科技IOT运营版打开小程序
 
+![](https://github.com/dibaotian/UG/blob/master/applet_qr.png)
+
+3.打开小程序,点击新用户注册，进入授权页面
+
+![](https://github.com/dibaotian/UG/blob/master/login_page.png)
 
 
