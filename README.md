@@ -53,13 +53,18 @@
 
 ## 1. 用户注册
 1.用户注册时请打开微信，搜索并关注嘉申电子公众号
+
 ![](https://github.com/dibaotian/UG/blob/master/wechat_public.png)
 
 打开公众号页面，点击获取授权
+
 ![](https://github.com/dibaotian/UG/blob/master/get_auth.png)
 
 授权通过会显示如下页面
 
 ![](https://github.com/dibaotian/UG/blob/master/auth_pass.png)
+
+2.	扫描下方小程序二维码，或者搜索酱瓜科技IOT运营版打开小程序
+
 
 
