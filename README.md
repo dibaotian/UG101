@@ -213,4 +213,8 @@
 
 ![](https://upload-images.jianshu.io/upload_images/11115937-bd82654f6cc767b0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+4. 分组搜索
 
+分组支持按照分组名称进行搜索，搜索框位于页面上方，输入分组名称，点击搜索按钮，下方即可显示要搜索的分组
+
+![](https://upload-images.jianshu.io/upload_images/11115937-a9fc1668a3771d3f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
