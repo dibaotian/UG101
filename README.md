@@ -89,6 +89,23 @@
 
 6.注册成功后页面会跳转到登录页面，此时用户可以通过授权登录或者用户名密码登录
 
+#登录
+
+小程序支持两种登录方式
+
+1. 账户密码登录
+
+用户输入注册时添加的用户名和密码，点击登录按钮进行系统登录
+
+![](https://upload-images.jianshu.io/upload_images/11115937-498df487eda20757.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2. 微信授权登录
+
+点击微信授权登录按钮，小程序会申请用户授权，授权通过后，系统自动登录
+
+![](https://upload-images.jianshu.io/upload_images/11115937-c1059365384bffb5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 
 
