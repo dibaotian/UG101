@@ -169,7 +169,7 @@
 
 点击配额设置后，会弹出配额输入对话框，配额可以在当前额度基础上增加，也可以减少，设置完成后点击提交即可完成分组配额设定
 
-![](https://upload-images.jianshu.io/upload_images/11115937-4a314fb364d72c36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+![](https://upload-images.jianshu.io/upload_images/11115937-4a314fb364d72c36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 设定完成后，页面会自动更新，这时可以检查对应配额字段，查看配额是否设置成功
 
