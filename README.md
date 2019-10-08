@@ -252,7 +252,7 @@
 
 小程序登录后，点击最下面标签栏上的配额记录按钮，即可进入供应商配额记录页面
 
-![](https://upload-images.jianshu.io/upload_images/11115937-e32e489b9cdd75e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-ba07ddfcc7e9dd1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 配额记录页面详细记录各个分组每一次配额的变更，每条记录包括分组名称，额度变更具体数值，额度是增加或减少, 额度变更操作人，执行变更操作人的角色（黄衣小人代表分销商，绿衣小人代表供应商）
 
