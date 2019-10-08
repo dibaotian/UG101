@@ -213,8 +213,38 @@
 
 ![](https://upload-images.jianshu.io/upload_images/11115937-bd82654f6cc767b0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-4. 分组搜索
-
+4. 分组查询
 分组支持按照分组名称进行搜索，搜索框位于页面上方，输入分组名称，点击搜索按钮，下方即可显示要搜索的分组
 
 ![](https://upload-images.jianshu.io/upload_images/11115937-a9fc1668a3771d3f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#### 设备管理
+
+小程序登录后，点击最下面标签栏上的设备管理按钮，即可进入供应商设备管理页面
+
+![](https://upload-images.jianshu.io/upload_images/11115937-1766f0c371bcb144.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+在设备管理页面，用户可以查询到每个设备的UUID,设备所属的分组名称，设备所属的分销商，已经设备工作状态
+
+1.用户可以通过点击设置按钮打开对应菜单对设备基本参数例如水量，粉量，温度等进行装订和设置的查询，
+
+2.用户可以通过点击设置->地理位置按钮来获取设备的位置信息，支持地图显示和任意比例缩放
+
+![](https://upload-images.jianshu.io/upload_images/11115937-7b646946b4f97171.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3.为了方便管理，支持对用户对设备进行自定义标记命名
+
+用户可以通过点击设置->用户信息按钮调起标记输入对话框，在对话框内输入设备的自定义标记信息
+
+![](https://upload-images.jianshu.io/upload_images/11115937-196c5b04f7e81ab2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+标记信息设置完成后会显示在每个设备对应的设备标注字段
+
+![](https://upload-images.jianshu.io/upload_images/11115937-ac9a1470694c0eae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+5.设备信息支持按分组名称查询
+
+在屏幕最上方的搜索框输入分组名称，点击搜索按钮即可列出分组内所有设备
+
+![](https://upload-images.jianshu.io/upload_images/11115937-ba07ddfcc7e9dd1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
