@@ -271,5 +271,59 @@
 用户可以在用户信息页面退出小程序返回到登录页面
 
 
+### 运营商
+
+供应商小程序包含设备管理，销售数据，设备维护和用户信息四个功能页面
+
+#### 设备管理
+
+运营商登录后会进入设备管理页面，设备管理页面包含设备状态，存料管理，配额管理，四个分页
+
+![](https://upload-images.jianshu.io/upload_images/11115937-72d6a9e13deeab0d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+##### 设备状态分页
+
+用户可以看设备的统计信息，包括设备总数，在线数目和故障数目
+
+用户可以看到账户下所有注册设备状态
+
+UUID为整个系统中设备的唯一标识号，状态显示设备的工作状态，是否离线，是否故障类型等等，设置按钮会根据状态的不同显示不同的颜色，绿色标示正常，灰色标示离线，红色表示故障
+
+点击设置按钮用户可以在移动端随时查询设备的工作参数并且对这些参数进行远程设置或修订
+
+![](https://upload-images.jianshu.io/upload_images/11115937-ea6306fba9e4539a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+具体的工作参数包括水温，用户设置设备冷水和热水的范围，设备会将其热水水箱和冷水水箱的温度控制在设定范围之内
+
+![](https://upload-images.jianshu.io/upload_images/11115937-514e690eded1d337.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+配方设置，用户可以设置粉料和水量的配比关系，根据售卖杯子的容量，以及当地人群的口味等灵活调节水和料的量以及配比关系，达到最佳组合
+
+![](https://upload-images.jianshu.io/upload_images/11115937-c1dec266c696dc41.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+售卖页面设定（名称/图片/价格）
+
+前端设备支持无人自动售卖，同时支持微信和支付宝支付，前端设备上有一个动态加密的二维码，顾客可以使用微信或者支付宝的扫一扫功能扫描该二维码，顾客扫码后会app上会显示一个售卖页面，页面上展示商品的图片,名称和价格，顾客可以根据喜好点击喜欢的商品付款购买，用户可以在小程序上自定义这个售卖页面，设定商品展示数量，价格，名称，对应图片以及价格
+
+![](https://upload-images.jianshu.io/upload_images/11115937-0858ed00e48d273f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+价格设置，用户可以自主设定每一种商品的价格，顾客扫码购买时，页面会显示对应的价格，顾客付款也会按照设定的价格支付，价格设定范围在0.01-999.98元之间，精确到分，其中如果价格设定为999.99元，那么商品不会出现在售卖列表之中，当顾客扫码打开购买页面时，不会显示对应的商品
+
+![](https://upload-images.jianshu.io/upload_images/11115937-4dd8cd04cbff94ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+页面设置，用户可以设定售卖页面上的商品名称以及对应的展示图片，其中名称可以手工输入，图片设定可以点击图片按钮从系统的图片库中选取
+
+![](https://upload-images.jianshu.io/upload_images/11115937-7a288b882c9c504a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+设备标注
+
+为了方便管理，支持对用户对设备进行自定义标记命名，在对话框内输入设备的自定义标记信息
+
+![](https://upload-images.jianshu.io/upload_images/11115937-196c5b04f7e81ab2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+标记信息设置完成后会显示在每个设备对应的设备标注字段
+
+
 酱瓜科技感谢您的使用
 
