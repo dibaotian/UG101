@@ -80,7 +80,7 @@
 
 ![](https://upload-images.jianshu.io/upload_images/11115937-4aacd9ad94e08d93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-1. 配置设定
+1. 配额设定
 
 分销商小程序支持在当前分销商的额度池中，取出一定数目的配额分配到单个设备，也可以将单个设备上的额度取出放回额度池内，此功能只能在设备在线情况下使用
 
