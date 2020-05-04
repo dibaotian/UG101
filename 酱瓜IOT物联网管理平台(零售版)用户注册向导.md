@@ -2,7 +2,7 @@
 
 ## 用户注册
 
-1. 用户注册时请打开微信，搜索并关注嘉申电子微信公众号
+1. 用户注册时请打开微信，搜索并关注<font color=Blue>嘉申电子</font>微信公众号
 
 ![](https://upload-images.jianshu.io/upload_images/11115937-84ed728fc1cc62d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
