@@ -16,7 +16,7 @@
 
 2. 使用微信扫描下方小程序二维码，或者再微信中搜索“酱瓜科技IOT”小程序
 
-![image.png](https://upload-images.jianshu.io/upload_images/11115937-6b7c1989530262f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-6b7c1989530262f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 3. 打开小程序,进入用户登录页面，点击最下方的新用户注册，进入获取授权页面
@@ -46,8 +46,7 @@
 ![](https://upload-images.jianshu.io/upload_images/11115937-5344bd05eadcb027.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 6. 填写完成后选择确认完成注册
-![image.png](https://upload-images.jianshu.io/upload_images/11115937-281c3950a4daad1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![](https://upload-images.jianshu.io/upload_images/11115937-281c3950a4daad1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 7.注册成功后页面会跳转到登录页面，此时用户可以通过授权登录或者用户名密码登录
 
@@ -55,7 +54,7 @@
 
 小程序支持两种登录方式，在登录页面，用户可以选择使用两种方式登录
 
-![image.png](https://upload-images.jianshu.io/upload_images/11115937-a72b2513221b1692.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-a72b2513221b1692.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 1. 账户密码登录（传统登录）
 
