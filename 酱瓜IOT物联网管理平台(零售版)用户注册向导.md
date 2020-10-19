@@ -79,14 +79,17 @@
 ##设备入网
 
 用户登陆后进入设备管理页面，设备状态分页上点击绿色十字按钮
+
 ![](https://upload-images.jianshu.io/upload_images/11115937-30d50b7f430b9f7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 调起扫描二维码功能，扫描设备面板上的二维码.
 
 如果设备处于无人注册状态，扫描后会出现设备注册对话框
+
 ![](https://upload-images.jianshu.io/upload_images/11115937-133eab6832c5aa50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 点击注册按钮，则该设备注册于当前用户名下，设备入网完成。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjY1MjM0MF19
+eyJoaXN0b3J5IjpbMTE0NDYxOTc0XX0=
 -->
