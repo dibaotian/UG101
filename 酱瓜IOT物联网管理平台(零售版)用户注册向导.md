@@ -87,5 +87,5 @@
 点击注册按钮，则该设备注册于当前用户名下，设备入网完成。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4Mjk0MDEwLDE0NTQ3MDE4MDhdfQ==
+eyJoaXN0b3J5IjpbMzI4Mjk0MDEwXX0=
 -->
