@@ -12,9 +12,11 @@
 
 
 3. 授权后显示授权成功页面,长按页面中的二维码
+
 ![](https://upload-images.jianshu.io/upload_images/11115937-75ff29920d8a3f39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 4. 选择前往图中包含的小程序，跳转到小程序
+
 ![](https://upload-images.jianshu.io/upload_images/11115937-ea9778a0b67100f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 5. 进入小程序用户登录页面，点击最下方的新用户注册，进入获取授权页面
@@ -85,5 +87,5 @@
 点击注册按钮，则该设备注册于当前用户名下，设备入网完成。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4Mjc1ODYwXX0=
+eyJoaXN0b3J5IjpbMTQ1NDcwMTgwOCw1MDgyNzU4NjBdfQ==
 -->
