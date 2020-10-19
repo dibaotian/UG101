@@ -1,33 +1,31 @@
-# 酱瓜IOT物联网管理平台(零售版)用户注册/登陆向导.md
+###酱瓜IOT物联网管理平台(零售版)用户注册向导
 
-## 用户注册
+#### 用户注册
 
 1. 打开微信，搜索并关注嘉申电子微信公众号
 
 ![](https://upload-images.jianshu.io/upload_images/11115937-84ed728fc1cc62d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-进入公众号，点击最下方的获取授权按钮
+2. 进入公众号，点击最下方的获取授权按钮，在子菜单中选择零售版
 
-![](https://upload-images.jianshu.io/upload_images/11115937-8e9efdef1b82bccd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-授权通过会显示如下页面，说明授权成功，此时请关闭授权结果页面
-
-![](https://upload-images.jianshu.io/upload_images/11115937-a012ecad23680ec9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-2. 使用微信扫描下方小程序二维码，或者再微信中搜索“酱瓜科技IOT”小程序
-
-![](https://upload-images.jianshu.io/upload_images/11115937-6b7c1989530262f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-fc10e52b4ac6357e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-3. 打开小程序,进入用户登录页面，点击最下方的新用户注册，进入获取授权页面
+3. 授权后显示授权成功页面,长按页面中的二维码
+![](https://upload-images.jianshu.io/upload_images/11115937-75ff29920d8a3f39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4. 选择前往图中包含的小程序，跳转到小程序
+![](https://upload-images.jianshu.io/upload_images/11115937-ea9778a0b67100f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+5. 进入小程序用户登录页面，点击最下方的新用户注册，进入获取授权页面
 
 ![](https://upload-images.jianshu.io/upload_images/11115937-407cd552927d2807.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-4. 在获取授权页面，点击授权注册按钮，授权注册
+6. 在获取授权页面，点击授权注册按钮，授权注册
 
 ![](https://upload-images.jianshu.io/upload_images/11115937-fe212de64d948008.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-5. 获取授权后进入注册页面，请在注册页面按照角色选取注册人的身份，可以注册为运营商或者维护人员，注册信息按照要求填写。
+7. 获取授权后进入注册页面，请在注册页面按照角色选取注册人的身份，可以注册为运营商或者维护人员，注册信息按照要求填写。
 
 运营商是设备的拥有者，具有对设备进行注册，配置，查询，收款和设置分账的能力
 
@@ -45,16 +43,15 @@
 
 ![](https://upload-images.jianshu.io/upload_images/11115937-5344bd05eadcb027.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-6. 填写完成后选择确认完成注册
-![](https://upload-images.jianshu.io/upload_images/11115937-281c3950a4daad1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+8. 填写完成后选择确认完成注册
+![image.png](https://upload-images.jianshu.io/upload_images/11115937-281c3950a4daad1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-7.注册成功后页面会跳转到登录页面，此时用户可以通过授权登录或者用户名密码登录
+
+9.注册成功后页面会跳转到登录页面，此时用户可以通过授权登录或者用户名密码登录
 
 ##登录
 
 小程序支持两种登录方式，在登录页面，用户可以选择使用两种方式登录
-
-![](https://upload-images.jianshu.io/upload_images/11115937-a72b2513221b1692.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 1. 账户密码登录（传统登录）
 
@@ -75,3 +72,18 @@
 登录后请进入用户信息页面，点击修改密码或者修改支付宝账号按钮进行修改
 
 ![](https://upload-images.jianshu.io/upload_images/11115937-039d0fc9f9e9e6ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+##设备入网
+
+用户登陆后进入设备管理页面，设备状态分页上点击绿色十字按钮
+![](https://upload-images.jianshu.io/upload_images/11115937-30d50b7f430b9f7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+调起扫描二维码功能，扫描设备面板上的二维码.
+
+如果设备处于无人注册状态，扫描后会出现设备注册对话框
+![](https://upload-images.jianshu.io/upload_images/11115937-133eab6832c5aa50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+点击注册按钮，则该设备注册于当前用户名下，设备入网完成。
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTA4Mjc1ODYwXX0=
+-->
