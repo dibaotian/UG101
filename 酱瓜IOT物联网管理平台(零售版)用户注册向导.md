@@ -46,6 +46,7 @@
 ![](https://upload-images.jianshu.io/upload_images/11115937-5344bd05eadcb027.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 8. 填写完成后选择确认完成注册
+
 ![image.png](https://upload-images.jianshu.io/upload_images/11115937-281c3950a4daad1f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -87,5 +88,5 @@
 点击注册按钮，则该设备注册于当前用户名下，设备入网完成。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4Mjk0MDEwXX0=
+eyJoaXN0b3J5IjpbLTU5NjY1MjM0MF19
 -->
