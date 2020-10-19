@@ -1,4 +1,4 @@
-###酱瓜IOT物联网管理平台(零售版)用户注册向导
+### 酱瓜IOT物联网管理平台(零售版)用户注册向导
 
 #### 用户注册
 
@@ -87,5 +87,5 @@
 点击注册按钮，则该设备注册于当前用户名下，设备入网完成。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDcwMTgwOF19
+eyJoaXN0b3J5IjpbMzI4Mjk0MDEwLDE0NTQ3MDE4MDhdfQ==
 -->
