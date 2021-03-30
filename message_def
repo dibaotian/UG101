@@ -5,4 +5,6 @@
 消息代号 2byte  0/1 开头属于查询消息，   8/9 开头属于配置消息  如果消息代号中出现字母全部使用小写
 消息内容， 如果内容如果超过20个字节，BLE需要分开发送
 
+JSE/WLE/SXE+channel number(2byte)+type(1byte S/D/C)+UUID(18byte)
+
 
