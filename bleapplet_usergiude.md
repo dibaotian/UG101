@@ -1,7 +1,7 @@
 ## 蓝牙IOT前端使用手册
 
 ###   1 关注公众号， 搜索并关注“嘉申电子”公众号
-![image](https://upload-images.jianshu.io/upload_images/11115937-84ed728fc1cc62d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-84ed728fc1cc62d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ####   2 获取授权 点击-获取授权->蓝牙版
 ![](https://upload-images.jianshu.io/upload_images/11115937-3a6dbe69c7e74354.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -22,7 +22,7 @@
 
 #### 6 搜索设备
 ##### 登录后，点击上方蓝牙图标按钮，开始搜索设备
-![search_dev.jpeg](https://upload-images.jianshu.io/upload_images/11115937-08722e6affc8c220.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-08722e6affc8c220.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 7 关联/连接设备
 ##### 搜索到设备后点击注册设备或者连接按钮，进入设备管理页面
@@ -31,6 +31,7 @@
 #### 8 设备管理
 ##### 在设备管理页面点击各个参数管理按钮对设备进行参数配置
 ![](https://upload-images.jianshu.io/upload_images/11115937-049269431e6a4918.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 #### 感谢您的使用
 
