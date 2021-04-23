@@ -34,3 +34,5 @@
 ##### 在设备管理页面点击各个参数管理按钮对设备进行参数配置
 ![](https://github.com/dibaotian/UG101/blob/master/bluetooth/management.jpeg)
 
+#### 感谢您的使用
+
