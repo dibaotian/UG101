@@ -3,7 +3,7 @@
 ###   1 关注公众号， 搜索并关注“嘉申电子”公众号
 ![image](https://upload-images.jianshu.io/upload_images/11115937-84ed728fc1cc62d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-####   2 获取授权 在点击-获取授权->蓝牙版
+####   2 获取授权 点击-获取授权->蓝牙版
 ![](https://upload-images.jianshu.io/upload_images/11115937-3a6dbe69c7e74354.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ###### 获取授权后点击关闭按钮
 ![](https://upload-images.jianshu.io/upload_images/11115937-ae5ce5b2ada08d99.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
