@@ -1,4 +1,4 @@
-## 蓝牙IOT前端用户使用手册
+## 蓝牙IOT前端使用手册
 
 ###   1 关注公众号， 搜索并关注“嘉申电子”公众号
 ![image](https://upload-images.jianshu.io/upload_images/11115937-84ed728fc1cc62d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
