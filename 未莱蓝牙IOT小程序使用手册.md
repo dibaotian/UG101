@@ -6,6 +6,7 @@
 
 ####   2 获取授权 在公众号内点击获取授权->蓝牙版
 ![image](https://github.com/dibaotian/UG101/blob/master/bluetooth/get_auth.jpeg)
+![image](bluetooth/get_auth.jpeg)
 ###### 获取授权后点击关闭
 ![](https://github.com/dibaotian/UG101/blob/master/bluetooth/auth_success.jpeg)
 
