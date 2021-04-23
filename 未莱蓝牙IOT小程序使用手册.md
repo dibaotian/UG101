@@ -2,10 +2,10 @@
 
 ####   1 关注公众号
 ###### 搜索并关注嘉申电子公众号
-![](https://upload-images.jianshu.io/upload_images/11115937-84ed728fc1cc62d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](https://upload-images.jianshu.io/upload_images/11115937-84ed728fc1cc62d0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ####   2 获取授权 在公众号内点击获取授权->蓝牙版
-![](https://github.com/dibaotian/UG101/blob/master/bluetooth/get_auth.jpeg)
+![image](https://github.com/dibaotian/UG101/blob/master/bluetooth/get_auth.jpeg)
 ###### 获取授权后点击关闭
 ![](https://github.com/dibaotian/UG101/blob/master/bluetooth/auth_success.jpeg)
 
