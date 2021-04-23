@@ -30,7 +30,7 @@
 
 #### 8 设备管理
 ##### 在设备管理页面点击各个参数管理按钮对设备进行参数配置
-![](https://upload-images.jianshu.io/upload_images/11115937-dadf0b1237b7e60a.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-049269431e6a4918.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 感谢您的使用
 
