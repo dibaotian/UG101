@@ -9,7 +9,7 @@
 ![](https://upload-images.jianshu.io/upload_images/11115937-ae5ce5b2ada08d99.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ####   3 打开未莱IOT前端小程序
-###### 微信扫描下方二维码打开小程序，或者在微信中搜索“未莱IOT蓝牙前端”
+###### 微信扫描下方二维码，或在微信中搜索“未莱IOT蓝牙前端”
 ![](https://upload-images.jianshu.io/upload_images/11115937-9997002daa2e2449.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ####  4 打开小程序，点击“微信授权注册/登录”按钮
