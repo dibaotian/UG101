@@ -12,7 +12,7 @@
 
 3. 授权后显示授权成功页面,点击关闭按钮，回到公众号
 
-![](https://upload-images.jianshu.io/upload_images/11115937-e47dd554fad216cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-b369223da25beb9d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 4. 进入公众号，点击最下方的小程序，在子菜单中选择零售版
 
