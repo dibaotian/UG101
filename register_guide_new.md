@@ -15,7 +15,7 @@
 
 4. 进入公众号，点击最下方的小程序，在子菜单中选择零售版
 
-![](https://upload-images.jianshu.io/upload_images/11115937-c95be1d864400ce5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-c04c1bf441df832f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 5. 进入小程序用户登录页面，点击最下方的新用户注册，进入获取授权页面
 
