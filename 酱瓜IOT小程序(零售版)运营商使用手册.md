@@ -236,11 +236,13 @@
 
 用户可以在设备管理页面使用扫一扫功能扫描前端设备的二维码，完成设备的注册，设备基本信息获取，以及设备参数装订和设备注销等功能
 
-![](https://upload-images.jianshu.io/upload_images/11115937-133eab6832c5aa50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-30d50b7f430b9f7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 1. 设备注册
 
 当运营商新拿到设备时，需要将设备注册到账户下才能进行设置管理，运营商可以将设备开机，扫描设备上的二维码，小程序会弹出询问页面，询问是否要注册该设备，点击确认即可注册成功
+
+![](https://upload-images.jianshu.io/upload_images/11115937-133eab6832c5aa50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 2. 设备信息查询
 
