@@ -234,9 +234,9 @@
 
 #### 设备维护
 
-用户可以在设备维护页面使用扫一扫功能扫描前端设备的二维码，完成设备的注册，设备基本信息获取，以及设备参数装订和设备注销等功能
+用户可以在设备管理页面使用扫一扫功能扫描前端设备的二维码，完成设备的注册，设备基本信息获取，以及设备参数装订和设备注销等功能
 
-![](https://upload-images.jianshu.io/upload_images/11115937-4669d3851451812f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-133eab6832c5aa50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 1. 设备注册
 
