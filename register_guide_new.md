@@ -72,7 +72,7 @@
 
 登录后请进入用户信息页面，点击修改密码或者修改支付宝账号按钮进行修改
 
-![](https://upload-images.jianshu.io/upload_images/11115937-039d0fc9f9e9e6ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/11115937-ddb13f038bfd9cc6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ##设备入网
 
